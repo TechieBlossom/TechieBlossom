@@ -9,17 +9,6 @@ I'm a Android/Flutter Engineer in Pune, India
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: The first person convicted of speeding was going eight mph.
 
-### Hi there 👋
-
-I'm a Android/Flutter Engineer in Pune, India
-
-- 🔭 I’m currently working on the [bloc library](https://bloclibrary.dev)
-- ☕ I’m learning how to make latte art
-- 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a pet bunny named Coco 🐰
-
 ### Open Source Projects
 
 [![Movie App](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=movie_app_tutorial)](https://github.com/TechieBlossom/movie_app_tutorial)
