@@ -4,7 +4,6 @@ I'm a Android/Flutter Engineer in Pune, India
 
 - 🌳 I'm currently working on [Flutter](https://flutter.dev)
 - 🔭 Learn real world Flutter application [Movie App](https://github.com/TechieBlossom/movie_app_tutorial)
-- 🌱 I’m currently learning many things node, hugo, flutter, jetpack compose
 - 👯 I’m looking to collaborate on flutter open source projects
 - 💬 Ask me about [Android](https://developer.android.com), [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 😄 Pronouns: he/him/his
