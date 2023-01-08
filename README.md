@@ -12,10 +12,10 @@ I'm a Android/Flutter Engineer in Pune, India
 ### Open Source Projects
 
 [![Movie App](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=movie_app_tutorial)](https://github.com/TechieBlossom/movie_app_tutorial)
+[![Animated Digital Clock](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=animated_digital_clock_flutter)](https://github.com/TechieBlossom/animated_digital_clock_flutter)
+[![India Flag Animation](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=indian-flag-animation)](https://github.com/TechieBlossom/indian-flag-animation)
 [![Stadia App Concept](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=stadia_app_concept)](https://github.com/TechieBlossom/stadia_app_concept)
-[![Local Events App](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=local_events_app)](https://github.com/TechieBlossom/local_events_app)
 [![Despicable Me Characters App](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=despicable_me_characters_app)](https://github.com/TechieBlossom/despicable_me_characters_app)
-[![Flutter Samples](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=flutter-samples)](https://github.com/TechieBlossom/flutter-samples)
 [![Sidebar Animation](https://github-readme-stats.vercel.app/api/pin/?username=TechieBlossom&repo=sidebar_animation_flutter)](https://github.com/TechieBlossom/sidebar_animation_flutter)
 
 ### Github Stats
