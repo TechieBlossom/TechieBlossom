@@ -17,7 +17,7 @@ I'm a Mobile Engineer from India with expertise on Flutter and Android.<br><br>-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TechieBlossom&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
