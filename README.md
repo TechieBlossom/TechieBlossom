@@ -5,7 +5,7 @@ I'm a Mobile Engineer from India with expertise on Flutter and Android.<br><br>-
 
 
 ## 🌐 Socials:
-[![Substack](https://img.shields.io/badge/SubStack-%230077B5.svg?logo=substack&logoColor=white&style=for-the-badge)](https://techfront.substack.com/)
+[![Substack](https://img.shields.io/badge/SubStack-%23FF6719.svg?logo=substack&logoColor=white&style=for-the-badge)](https://techfront.substack.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/PrateekSharma1712)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@@prateeksharma)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/@SharmaPrateek7)
