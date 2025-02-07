@@ -1,10 +1,11 @@
 # Hi there 👋 👋 
 
 # 💫 About Me:
-I'm a Mobile Engineer from India with expertise on Flutter and Android.<br><br>- ✍️ I write on SubStack [TechFront]([https://www.youtube.com/c/TechieBlossom](https://techfront.substack.com/))<br>-🌳 I'm currently working on a Flutter Advanced Tutorial Series<br>- 🔭 I run a YouTube channel - [TechieBlossom](https://www.youtube.com/c/TechieBlossom)<br>- 👯 I’m looking to collaborate on flutter open source projects<br>- 💬 Ask me about [Flutter](https://flutter.dev), [Android](https://developer.android.com) and [Dart](https://dart.dev)<br>- 😄 Pronouns: he/him/his<br>- ⚡ Fun fact: Adult cats only meow to humans, not other cats.<br>
+I'm a Mobile Engineer from India with expertise on Flutter and Android.<br><br>- ✍️ I write on SubStack [TechFront]([https://www.youtube.com/c/TechieBlossom](https://techfront.substack.com/))<br>-🌳 I'm currently working on a Flutter Advanced Tutorial Series<br>- 🔭 I run a YouTube channel - [TechieBlossom](https://www.youtube.com/c/TechieBlossom)<br>- 💬 Ask me about [Flutter](https://flutter.dev), [Android](https://developer.android.com) and [Dart](https://dart.dev)<br>- 😄 Pronouns: he/him/his<br>- ⚡ Fun fact: Adult cats only meow to humans, not other cats.<br>
 
 
 ## 🌐 Socials:
+[![Substack](https://img.shields.io/badge/SubStack-%230077B5.svg?logo=substack&logoColor=white&style=for-the-badge)](https://techfront.substack.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/PrateekSharma1712)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@@prateeksharma)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/@SharmaPrateek7)
